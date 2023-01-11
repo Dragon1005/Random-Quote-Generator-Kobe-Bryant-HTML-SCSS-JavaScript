@@ -15,7 +15,3 @@ section.style.padding = '55px';
 btn.style.position = 'absolute';
 btn.style.top = '65%'
 })
-
-
-
-console.log(lists[Math.floor(Math.random() * lists.length)]);
